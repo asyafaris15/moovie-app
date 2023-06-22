@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PEMMOB_D</string>
+
+    <string-array name="status">
+        <item>Pilih...</item>
+        <item>Favorit</item>
+        <item>Watch to Plan</item>
+    </string-array>
+</resources>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "123983003487",
+    "firebase_url": "https://pemmob-9bcb0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pemmob-9bcb0",
+    "storage_bucket": "pemmob-9bcb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123983003487:android:29b144502e51137e5dc0ea",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123983003487-c94lg6ktuunggc0icgoq857lfkikgl4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD48wBoa_s02B4GBkbJUO0bhfHQL5YYnsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123983003487-c94lg6ktuunggc0icgoq857lfkikgl4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123983003487:android:1654ea2258fcc6615dc0ea",
+        "android_client_info": {
+          "package_name": "com.example.latihan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123983003487-c94lg6ktuunggc0icgoq857lfkikgl4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD48wBoa_s02B4GBkbJUO0bhfHQL5YYnsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123983003487-c94lg6ktuunggc0icgoq857lfkikgl4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123983003487:android:88efffb9a64fe40a5dc0ea",
+        "android_client_info": {
+          "package_name": "com.example.pemmob_d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123983003487-c94lg6ktuunggc0icgoq857lfkikgl4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD48wBoa_s02B4GBkbJUO0bhfHQL5YYnsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123983003487-c94lg6ktuunggc0icgoq857lfkikgl4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
